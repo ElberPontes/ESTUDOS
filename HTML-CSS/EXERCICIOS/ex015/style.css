@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+meta charset="utf-8">
+@font-face {
+   font-family:'csgo' ;
+   src: url('SPARK BUBBLE.otf') format('opentype');
+}
+    
+* {
+ /*height: 100%;*/
+ font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+
+}
+body{
+
+    background-image: linear-gradient(to right, #45C4B0,#9AEBA3);
+}
+h1{
+   font-family: 'csgo' cursive;
+ text-align: center;
+    color: #10454F;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.349);
+}
+ h2{
+    background-color: #07f023;
+    text-align: center;
+    border-radius: 10px;
+
+    color:#0f1213e0;
+ }
+ h3{
+    background-color: #36c0f7a1 ;
+    border-radius: 10px;
+    height: 25px;
+    text-align: center;
+
+    color:#0f1213e0;
+ }
+ div{
+text-align: center;
+
+
+ }
+ li{
+
+    color: #13678A;
+ }
+main{
+    box-shadow: 1px 2px 2px #308a7c;
+    border-radius: 15px;
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+
+
+
+}
+
+
+
+
+
+p{
+text-align: justify;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+
+
+
+}
